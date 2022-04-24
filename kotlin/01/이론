@@ -1,0 +1,24 @@
+변수
+- 변경이 가능한 변수
+    - var (variable, 변수)
+- 변경 불가능
+    - val (value, 값)
+
+선언하는 방법
+val/var 이름
+- var school
+- val school
+- 변수 이름 작명 = 네이밍
+
+할당하는 방법
+val/var 이름 = 값
+- school = "대한민국 학교"
+- val/var school = "대한민국 학교" -> 선언과 할당을 동시에 함
+코틀린에서는 무조건 선언과 할당을 동시에 해야함 (처음에 값을 넣어줘야함)
+
+네이밍 규칙
+- val 선언은 대문자로 val SCHOOL val PHONE_NUMBER
+- var 선언은 소문자로 (카멜케이스) var school var phoneNumber
+
+자동정렬은 단축키로 (커맨드+,) -> command alt l
+
